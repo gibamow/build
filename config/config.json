@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x38f817857f0dcEF74CEe483032F0F5c8f4AF89E8",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x38f817857f0dcEF74CEe483032F0F5c8f4AF89E8",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "GOTEST",
+  "SYMBOL": "GOT",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/gotest-jqxuf6bpvl",
+  "SHOW_BACKGROUND": true
+}
